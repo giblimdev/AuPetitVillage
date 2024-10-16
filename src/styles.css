@@ -1,0 +1,97 @@
+@font-face {
+  font-family: "BubbleboddyNeue";
+  src: url("../src/assets/bubbleboddyneue-regular_trial.ttf") format("truetype");
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Comfortaa";
+  src: url("../src/assets/Comfortaa-VariableFont_wght.ttf") format("truetype");
+  font-weight: 400;
+}
+
+.comfortaa-400 {
+  font-family: "Comfortaa";
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+.BubbleboddyNeue-400 {
+  font-family: "BubbleboddyNeue";
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.back {
+  background-color: #f9d0a3;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.bg1 {
+  background-color: #f9d0a3;
+}
+.bg2 {
+  background-color: #fdd90b;
+}
+.bg3 {
+  background-color: #151217;
+}
+.bg4 {
+  background-color: #da001e;
+}
+
+/*dBug*/
+.b1 {
+  border: sol 1px black;
+}
+.bblack {
+  border: solid 2px black;
+}
+.b2 {
+  border: solid 1px blue;
+}
+.bblue {
+  border: solid 1px blue;
+}
+.bgreen {
+  border: solid 1px green;
+}
+.b3 {
+  border: solid 1px blue;
+}
+.bred {
+  border: solid 1px red;
+}
+.bcyan {
+  border: solid 1px cyan;
+}
+.bpurple {
+  border: solid 1px purple;
+}
+.m5 {
+  margin: 5px;
+}
+.m10 {
+  margin: 10px;
+}
+.p10 {
+  padding: 10px;
+}
+
+.backred {
+  background-color: red;
+}
+.bgcyan {
+  margin: 10px;
+  background-color: cyan;
+}

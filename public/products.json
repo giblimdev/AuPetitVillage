@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "nom": "Figurine Astérix",
+    "description": "Figurine d'Astérix le Gaulois",
+    "image": "fig1.webp",
+    "prix": 29.99
+  },
+  {
+    "id": "2",
+    "nom": "Figurine Obélix",
+    "description": "Figurine d'Obélix ",
+    "image": "fig2.webp",
+    "prix": 34.99
+  },
+  {
+    "id": "3",
+    "nom": "Figurine Obélix",
+    "description": "Figurine Panoramix ",
+    "image": "fig3.webp",
+    "prix": 14.99
+  },
+
+  {
+    "id": "4",
+    "nom": "Figurine Obélix",
+    "description": "Figurine Abraracoursix ",
+    "image": "fig4.webp",
+    "prix": 34.99
+  },
+  {
+    "id": "5",
+    "nom": "Figurine Obélix",
+    "description": "Figurine Assurancetourix ",
+    "image": "fig5.webp",
+    "prix": 34.99
+  },
+  {
+    "id": "6",
+    "nom": "Figurine Obélix",
+    "description": "Figurine Ideefix ",
+    "image": "fig6.webp",
+    "prix": 34.99
+  },
+  {
+    "id": "7",
+    "nom": "Figurine Obélix",
+    "description": "Figurine Asterix pas contant ",
+    "image": "fig.webp",
+    "prix": 34.99
+  }
+]
